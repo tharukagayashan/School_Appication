@@ -1,1 +1,1 @@
-# ECommerce MERN Appication
+#MERN School Appication
