@@ -1,1 +1,1 @@
-#MERN School Appication
+#MERN Stack School Appication 
